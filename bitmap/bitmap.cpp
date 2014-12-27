@@ -1,4 +1,4 @@
-#include "bitmap.h
+#include "bitmap.h"
 
 // Routine to read a bitmap file.
 // Works only for uncompressed bmp files of 24-bit color.
